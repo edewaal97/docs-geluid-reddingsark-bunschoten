@@ -37,9 +37,6 @@ Voor meer details zoek de handleiding op van het apparaat:
     - Sennheiser EW100 G2
     - Shure UT4
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Work In Progress
+----------------
+Deze handleiding is nog niet volledig afgerond. De lijst met nog te verwerken onderwerpen kan je in de :doc:`todo` lijst bekijken. Wil je zelf bijdragen aan/met een onderwerp? Laat het gerust even weten!
