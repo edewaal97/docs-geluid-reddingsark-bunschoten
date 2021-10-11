@@ -20,3 +20,5 @@ Het HPF (HighPassFilter) staat ook in dit scherm. Een HighPassFilter laat alleen
 
 Het HPF kan gebruikt worden om ongewenste lage tonen, zoals het “poppen” van stemmen of het rommelen van een gitaar te verminderen.
 
+..
+   cheatsheet: https://www.sweetwater.com/insync/music-instrument-frequency-cheatsheet/

@@ -28,3 +28,7 @@ Het inschakelen van de apparatuur gaat op dezelfde volgorde als het klaarzetten.
 Uitschakelen en Opruimen
 ------------------------
 Het opruimen gaat eigenlijk op dezelfde wijze als het klaarzetten en inschakelen, alleen in omgekeerde volgorde. Je kunt op deze manier bijvoorbeeld nog wat achtergrondmuziek draaien tijdens het opruimen van de microfoons en instrumenten. Doe bij het uitschakelen altijd eerst de speakers uit, vervolgens de stagebox en mengtafel.
+
+Houd hier ook rekening mee bij het opruimen van de stroom. Haal pas stekkers uit het stopcontact als je zeker weet dat alle apparaten die op die stekker aangesloten zitten, correct zijn uitgeschakeld.
+
+De mengtafel is in dat opzicht vergelijkbaar met een computer. Sluit eerst de computer af voordat je de stroom er af haalt. Klik hiervoor in de mengtafel op de knop :guilabel:`home` en klik onder het tabje `home` op :guilabel:`Shut Down`. Als er in het scherm staat dat de mengtafel uitgezet kan worden, mag de schakelaar (rechtsboven op de verdeeldoos) uitgeschakeld worden waarna de stroom afgekoppeld en opgeruimd kan worden.
