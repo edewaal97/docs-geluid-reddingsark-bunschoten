@@ -4,11 +4,11 @@ Als de spullen klaargezet worden is het nog niet zo dat meteen alles werkt. Onda
 
 Basisscène terugzetten
 ----------------------
-Om de mengtafel te gebruiken moet worden ingelogd. Klik na inschakelen op “admin” en vul het wachtwoord in. Start de dag altijd met het terugzetten van de instellingen van de mengtafel naar de standaard. Klik hiervoor naast het scherm op `Scenes`. Klik de basisscène aan en klik vervolgens op `Recall`.
+Om de mengtafel te gebruiken moet worden ingelogd. Klik na inschakelen op “admin” en vul het wachtwoord in. Start de dag altijd met het terugzetten van de instellingen van de mengtafel naar de standaard. Klik hiervoor naast het scherm op :guilabel:`Scenes`. Klik de basisscène aan en klik vervolgens op :guilabel:`Recall`.
 
 Soundcheck
 ----------------------
-Doe een soundcheck om te kijken of alle speakers goed zijn aangesloten en gericht. Dit kan door een liedje aan te zetten en te luisteren of je middenachter in de zaal het geluid van twee kanten hoort komen met een gelijk volume. Hierbij kan je vrijwel in het midden van de speakers kijken. Controleer of het volume overeenkomt met wat de meters op de mengtafel aangeven. Controleer vervolgens of de linker speakers ook goed (links) is aangesloten de muziek met `Pan` naar links te draaien. Als het goed is hoor je dan alleen nog geluid op links. Doe hetzelfde met rechts.
+Doe een soundcheck om te kijken of alle speakers goed zijn aangesloten en gericht. Dit kan door een liedje aan te zetten en te luisteren of je middenachter in de zaal het geluid van twee kanten hoort komen met een gelijk volume. Hierbij kan je vrijwel in het midden van de speakers kijken. Controleer of het volume overeenkomt met wat de meters op de mengtafel aangeven. Controleer vervolgens of de linker speakers ook goed (links) is aangesloten de muziek met :guilabel:`Pan` naar links te draaien. Als het goed is hoor je dan alleen nog geluid op links. Doe hetzelfde met rechts.
 
 Ga vervolgens door met de kanalen die je gaat gebruiken. Bij een band is het gebruikelijk om een soundcheck te doen waarbij je eerst de instrumenten doet en vervolgens de vocals. Meestal zijn de kanalen ook zo ingericht op de mengtafel. Doe het inregelen per kanaal in deze volgorde:
 
