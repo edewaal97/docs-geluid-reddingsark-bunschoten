@@ -17,6 +17,7 @@ Deze handleiding is geschreven voor het geluidsteam in
 
    opbouwen-en-afbreken/inleiding
    opbouwen-en-afbreken/definities-kabels-en-apparatuur
+   opbouwen-en-afbreken/handleidingen
 
 .. toctree::
    :caption: De mengtafel:
