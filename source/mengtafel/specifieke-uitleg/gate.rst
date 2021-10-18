@@ -19,4 +19,5 @@ De Instellingen voor een Gate zijn erg vergelijkbaar met de instellingen voor ee
 
 .. Hint::
    Bekijk de volgende video voor een uitleg over gates:
-   https://www.youtube.com/watch?v=XYKszVPOTB8
+
+   .. youtube:: XYKszVPOTB8

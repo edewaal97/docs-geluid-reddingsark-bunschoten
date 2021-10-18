@@ -5,9 +5,9 @@ Vrijwel alle aansluitingen bestaan uit een *paar*. Een mannetje en een vrouwtje.
 
 Naast de aansluiting is het signaal van belang. Is het Mono (enkel) of Stereo (Dubbel / Links&Rechts). Een microfoon is een mono signaal. Als er twee microfoons gebruikt worden, waarvan er één links, en één rechts op de ontvanger gericht staat, is dit nog steeds twee keer een mono signaal. Op de mengtafel kan dit signaal vervolgens omgevormd worden naar een stereo signaal. Bij het aansluiten van een telefoon aan de mengtafel wordt gebruikgemaakt van een enkele kabel, toch wordt hierover een stereo signaal verzonden.
 
-Daarnaast kan het signaal gebalanceerd zijn of ongebalanceerd. Een gebalanceerd signaal is minder gevoelig voor storingen waardoor het een langere afstand kan afleggen. De meeste signalen die door een XLR kabel lopen zijn gebalanceerd. [#ballancedUnballanced]_
+Daarnaast kan het signaal gebalanceerd zijn of ongebalanceerd. Een gebalanceerd signaal is minder gevoelig voor storingen waardoor het een langere afstand kan afleggen. De meeste signalen die door een XLR kabel lopen zijn gebalanceerd.
 
-.. [#ballancedUnballanced] Zie  https://www.youtube.com/watch?v=9Mdgr1j2dFQ _
+.. youtube:: 9Mdgr1j2dFQ
 
 Labels
 -------------------------------

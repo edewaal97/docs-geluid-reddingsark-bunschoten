@@ -21,4 +21,6 @@ Vermijd dat signalen in het rood komen (Peaken), dit is ten eerste erg hard, maa
 
 Nadat het ingangssignaal rond de nul ligt kan het kanaal aangezet worden middels de [Mute]-knop. Schuif daarna langzaam de fader omhoog tot het signaal het gewenste niveau heeft.
 
-.. Tip:: Een video met de achtergrondgedachte achter een goede gain kan je hier bekijken: https://www.youtube.com/watch?v=lel8FZ4wLf8
+.. Tip:: Een video met de achtergrondgedachte achter een goede gain kan je hier bekijken:
+
+   .. youtube:: lel8FZ4wLf8

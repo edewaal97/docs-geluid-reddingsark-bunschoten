@@ -36,9 +36,13 @@ Het geluid gaat rondzingen op het moment dat een microfoon zijn eigen geluid opv
 
 .. Tip::
    In de volgende video wordt dat iets gedetailleerder uitgelegd.
-   https://www.youtube.com/watch?v=X0sf2ZuQKGM
 
-   Om nummer 6 - het uitringen van de microfoon/speakercombinatie - wat verder uit te lichten is het wellicht goed om deze korte gearchiveerde livestream terug te kijken: https://www.youtube.com/watch?v=FoZoZv9IY1Q
+   .. youtube:: X0sf2ZuQKGM
+
+   Om nummer 6 - het uitringen van de microfoon/speakercombinatie - wat verder uit te lichten is het wellicht goed om deze korte gearchiveerde livestream terug te kijken:
+
+   .. youtube:: FoZoZv9IY1Q
+
    Zoals je in de video kan zien, is het makkelijk om gebruik te maken van een RTA / spectrum analyiser. Deze kan je gemakkelijk op je smartphone installeren en is ook te vinden in de mengtafel zelf (:guilabel:`Home` - :guilabel:`RTA`).
 
 
