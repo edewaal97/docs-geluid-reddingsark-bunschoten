@@ -7,9 +7,8 @@ De mengtafel heeft naar het lijkt 24 kanalen. Er zijn er echter nog een paar ext
 Daarnaast is er nog een derde layer, welke toegankelijk is door beide layerknoppen tegelijkertijd in te drukken. Op deze layer is de zogenaamde custom layer. In deze layer kan per fader aangewezen worden, welk kanaal bestuurd wordt. (Op het display via [Setup]->Control->Custom Layer).
 
 
-.. sidebar:: Afbeelding
-
-  .. image:: /images/channel-strip.png
+.. image:: /images/channel-strip.png
+   :align: right
 
 De strip itself
 ---------------

@@ -29,14 +29,12 @@ Daarnaast hebben wat uitgebreidere mengtafels vaak ook ingebouwde effecten, deze
 
 De bediening van uitgangskanalen is vrijwel altijd aan de rechterkant van het mengpaneel te vinden.
 
-.. sidebar:: Afbeelding
-
-  .. image:: /images/mgp32x-channel-strip-outline.jpg
-
+.. image:: /images/mgp32x-channel-strip-outline.jpg
+   :align: right
+   :scale: 70
 
 Channel-strip
 -------------
-
 *Geel*:
 
 - 48v (Phantom Power) is een voeding die bepaalde apparaten / microfoons nodig hebben om te functioneren. (bijv. Di’s en Condensatormicrofoons)

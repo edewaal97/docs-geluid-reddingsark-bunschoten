@@ -19,9 +19,8 @@ Onder het scherm bevinden zich een aantal knoppen:
 
 Direct Rechts van het scherm bevinden zich ook nog een aantal knoppen. Deze knoppen zijn voor directe interactie met het scherm. De bovenste twee zijn afhankelijk van het geselecteerde kanaal:
 
-.. Sidebar:: Afbeelding
-
-  .. image:: /images/schermknoppen.png
+.. image:: /images/schermknoppen.png
+   :align: right
 
 - **Processing**: Uitgebreide weergave voor onder andere: 48v, Gain, Gate, Equalizer, Compressor,
 - **Routing**: Toegang tot Mix Sends, FX Sends, Grp Sends, Mute-/DCA groepen en direct outs.

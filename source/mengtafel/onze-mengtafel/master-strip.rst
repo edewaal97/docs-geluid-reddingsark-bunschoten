@@ -1,9 +1,9 @@
 Master strip
 ============
 
-.. Sidebar:: Afbeelding
-
-  .. image:: /images/master-strip.png
+.. image:: /images/master-strip.png
+   :align: right
+   :width: 40%
 
 De uitleg van het merendeel van deze knoppen is in het hoofdstuk "Channel Strip" al gegeven.
 
