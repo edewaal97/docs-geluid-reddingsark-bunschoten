@@ -21,3 +21,4 @@ De Instellingen voor een Gate zijn erg vergelijkbaar met de instellingen voor ee
    Bekijk de volgende video voor een uitleg over gates:
 
    .. youtube:: XYKszVPOTB8
+      :width: 100%

@@ -47,7 +47,9 @@ Gain Staging
 Ook over Gain Staging is veel te zeggen. In de volgende video wordt het duidelijk uitgelegd:
 
 .. youtube:: lel8FZ4wLf8
+   :width: 100%
 
 Een andere video die er misschien iets dieper op ingaat:
 
 .. youtube:: lel8FZ4wLf8
+   :width: 100%

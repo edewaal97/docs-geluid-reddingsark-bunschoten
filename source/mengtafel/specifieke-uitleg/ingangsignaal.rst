@@ -24,3 +24,4 @@ Nadat het ingangssignaal rond de nul ligt kan het kanaal aangezet worden middels
 .. Tip:: Een video met de achtergrondgedachte achter een goede gain kan je hier bekijken:
 
    .. youtube:: lel8FZ4wLf8
+      :width: 100%

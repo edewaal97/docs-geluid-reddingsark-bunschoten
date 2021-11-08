@@ -8,6 +8,7 @@ Naast de aansluiting is het signaal van belang. Is het Mono (enkel) of Stereo (D
 Daarnaast kan het signaal gebalanceerd zijn of ongebalanceerd. Een gebalanceerd signaal is minder gevoelig voor storingen waardoor het een langere afstand kan afleggen. De meeste signalen die door een XLR kabel lopen zijn gebalanceerd.
 
 .. youtube:: 9Mdgr1j2dFQ
+   :width: 100%
 
 Labels
 -------------------------------
