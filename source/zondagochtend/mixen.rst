@@ -21,4 +21,4 @@ Het mixen van geluid is dus voornamelijk om te zorgen voor een goede balans tuss
 
 Door gebruik te maken van effecten kan je een soort nieuw geluid creëren wat je toevoegt aan de mix om het wat meer karakter te geven.
 
-Onder het kopje "De mengtafel" -> "Specifieke uitleg" worden deze specifieke onderdelen meer in de diepte uitgelegd.
+Onder het kopje :doc:`../mengtafel/specifieke-uitleg` worden deze specifieke onderdelen meer in de diepte uitgelegd.

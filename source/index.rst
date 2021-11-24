@@ -1,7 +1,6 @@
 Handleiding Geluid De Reddingsark Bunschoten
 ==============================================
-Deze handleiding is geschreven voor het geluidsteam in
-`De Reddingsark <https://dereddingsark.nl>`_ locatie Bunschoten-Spakenburg.
+Deze handleiding is geschreven voor het geluidsteam in `De Reddingsark <https://dereddingsark.nl>`_ locatie Bunschoten-Spakenburg.
 
 .. toctree::
    :caption: Zondagochtend
