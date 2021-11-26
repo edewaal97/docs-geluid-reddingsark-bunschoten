@@ -10,8 +10,8 @@ Op deze pagina staan onderwerpen die nog verder uitgewerkt moeten worden en verv
 - Tablet/telefoon verbinden met mengtafel
 - Multitrack recording
 - EQ uitbreiden
-- Aansluittekeningen/schema's
 - Troubleshooting
 - FAQ
 - Achtergrond draadloze microfoons
 - Uitbreiden definities kabels en apparatuur
+- Ducker (https://www.youtube.com/watch?v=9-RQhS6sI6s)

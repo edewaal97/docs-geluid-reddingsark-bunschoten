@@ -1,0 +1,5 @@
+Voorbereidingen en zondagochtend
+=================================
+Bij het opbouwen is het belangrijk dat mensen die afhankelijk zijn van het geluid niet op ons hoeven wachten. Zorg dat je op tijd bent en spreek anderen er op aan als ze niet op tijd zijn. Wanneer ben je op tijd? Het zangteam zal meestal tussen 9.00 uur en 9.15 uur willen beginnen met oefenen. Zorg dat (indien nodig) de piano dan klaar staat. Zorg verder dat je genoeg tijd hebt om alles aangesloten te hebben om 9.30u en streef er naar om rond die tijd de soundcheck ook afgerond te hebben. Mochten er nog problemen voordoen, is er nog ruim genoeg tijd om het op te lossen.
+
+Als bekend wordt dat er meer instrumenten dan gebruikelijk zijn is het van belang om vooraf een planning te maken. Hierbij kan het helpen om een weergave te maken van de te verwachten inputs en outputs (:download:`download <inputs-outputs-ontwerp.xltx>`). In sommige gevallen is het raadzaam om de dag van tevoren al een deel van de apparatuur klaar te zetten. Doe dit altijd in goed overleg met de band en de sleutelbeheerder.
