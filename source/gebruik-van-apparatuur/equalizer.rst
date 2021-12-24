@@ -5,8 +5,6 @@ Met de equalizer en het high-passfilter worden geluiden aangepast op basis van h
 .. youtube:: jDGFZMKeGHY
    :width: 100%
 
-James heeft daarnaast ook een duidelijke video over het `gebruik van EQ bij zangers <https://www.youtube.com/watch?v=ey715RqVozk>`_.
-
 Equalizer
 -----------------------------------
 .. image:: /images/parametric-eq-buttons.png
@@ -31,6 +29,12 @@ Het HPF (HighPassFilter) staat ook in dit scherm. Een HighPassFilter laat alleen
 
 Het HPF kan gebruikt worden om ongewenste lage tonen, zoals het “poppen” van stemmen of het rommelen van een gitaar te verminderen.
 
-..
-   cheatsheet: https://www.sweetwater.com/insync/music-instrument-frequency-cheatsheet/
-   maak gebruik van de spectrum analizer apps
+Cheatsheet
+---------------------------------------
+Gebruik de :download:`cheatsheet van Sweetwater </downloads/musicfrequencycheatsheet.pdf>` om de frequentierange van verschillende veelgebruikte instrumenten te bekijken. Dit kan heel erg helpen bij het vormgeven van het geluid.
+
+RTA/Spectrum Analizer
+---------------------------------------
+Maak daarnaast gebruik van een Real Time Analizer / Spectrum Analizer. De mengtafel heeft dit ingebouwd. Hier kom je via :guilabel:`Home`, tabje :guilabel:`RTA`. Om de spectrum analizer te openen klik je in dat scherm op de :guilabel:`Fn`-toets linksonder het scherm.
+
+Maak voor een gedetailleerdere weergave gebruik van een RTA/Spectrum Analizer op een telefoon/tablet. Ook de apps die je aan de mengtafel kan koppelen hebben dit ingebouwd.
