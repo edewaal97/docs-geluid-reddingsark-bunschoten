@@ -21,4 +21,16 @@ Het mixen van geluid is dus voornamelijk om te zorgen voor een goede balans tuss
 
 Door gebruik te maken van effecten kan je een soort nieuw geluid creëren wat je toevoegt aan de mix om het wat meer karakter te geven.
 
-Op de volgende pagina's worden deze specifieke onderdelen meer in de diepte uitgelegd.
+Al deze zaken worden in hun eigen hoofdstuk uitgediept.
+
+
+Cheatsheets
+----------------
+Voor een aantal geluidsbronnen kan het handig zijn om wat voorgedefinieerde instellingen te hebben. Deze instellingen zijn richtlijnen. Luister vooral goed naar het geluid en controleer of de instellingen het geluid beter maken.
+
+.. toctree::
+   :maxdepth: 1
+
+   mixen/drumstel
+   mixen/gitaar
+   mixen/stemmen
