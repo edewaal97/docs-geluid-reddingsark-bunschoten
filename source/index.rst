@@ -37,6 +37,7 @@ Deze handleiding is geschreven voor het geluidsteam in `De Reddingsark <https://
    overig/problemen-oplossen
    overig/inventaris
    overig/handleidingen
+   overig/apps
 
 Work In Progress
 ----------------
