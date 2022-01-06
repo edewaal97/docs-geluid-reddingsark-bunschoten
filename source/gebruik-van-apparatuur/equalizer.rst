@@ -33,8 +33,27 @@ Cheatsheet
 ---------------------------------------
 Gebruik de :download:`cheatsheet van Sweetwater </downloads/musicfrequencycheatsheet.pdf>` om de frequentierange van verschillende veelgebruikte instrumenten te bekijken. Dit kan heel erg helpen bij het vormgeven van het geluid.
 
+.. Tip::
+   Ook kan het handig zijn om je oren te trainen en de klanken van verschil in toon hoogte te leren herkennen. Dit wordt in onderstaande video kort uitgelegd.
+
+   .. youtube:: 5rYrcm__3sk
+      :width: 100%
+
+   Samenvatting:
+
+   ======== ======== ============= =============
+   Freq.    Klank    Eng. woord    Omschrijving
+   ======== ======== ============= =============
+   250Hz    Oo       food/too      muddy
+   500Hz    O        no            woofy
+   1kHz     Ah       mama          boxy
+   2kHz     A        hat           harsh
+   4kHz     EE       bee           airy
+   8kHz     S        say           crispy
+   ======== ======== ============= =============
+
 RTA/Spectrum Analizer
 ---------------------------------------
 Maak daarnaast gebruik van een Real Time Analizer / Spectrum Analizer. De mengtafel heeft dit ingebouwd. Hier kom je via :guilabel:`Home`, tabje :guilabel:`RTA`. Om de spectrum analizer te openen klik je in dat scherm op de :guilabel:`Fn`-toets linksonder het scherm.
 
-Maak voor een gedetailleerdere weergave gebruik van een RTA/Spectrum Analizer op een telefoon/tablet. Ook de apps die je aan de mengtafel kan koppelen hebben dit ingebouwd.
+Maak voor een gedetailleerdere weergave gebruik van een RTA/Spectrum Analizer op een telefoon/tablet. Ook de :doc:`apps </overig/apps>` die je aan de mengtafel kan koppelen hebben dit ingebouwd.
