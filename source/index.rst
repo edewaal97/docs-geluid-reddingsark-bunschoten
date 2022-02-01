@@ -38,15 +38,11 @@ Deze handleiding is geschreven voor het geluidsteam in `De Reddingsark <https://
    overig/inventaris
    overig/handleidingen
    overig/apps
+   overig/meer-leren
 
 Work In Progress
 ----------------
 Deze handleiding is nog niet volledig afgerond. De lijst met nog te verwerken onderwerpen kan je in de :doc:`todo` lijst bekijken. Wil je zelf bijdragen aan/met een onderwerp? Laat het gerust even weten!
-
-.. toctree::
-   :hidden:
-
-   todo
 
 ..
    https://miro.com/app/board/o9J_lgiw7pM=/?invite_link_id=826590360839
