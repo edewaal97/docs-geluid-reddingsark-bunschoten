@@ -10,10 +10,10 @@ Apple
 ---------------------------------
 - Spectrum analyzer: `Audio Spectrum Analyzer dB RTA <https://apps.apple.com/nl/app/audio-spectrum-analyzer-db-rta/id1281873790>`_
 - Mengtafel op iPad: `Qu-Pad <https://itunes.apple.com/app/qu-pad/id699450314>`_
-- Monitor mixing: `Qu-You <https://itunes.apple.com/app/qu-you/id935278018>`_
+- Monitor mixing: `Qu-You iOS <https://itunes.apple.com/app/qu-you/id935278018>`_
 
 Android
 ---------------------------------
 - Spectrum analyzer: `Spectroid <https://play.google.com/store/apps/details?id=org.intoorbit.spectrum>`_
 - Mengtafel: `Mixing Station <https://play.google.com/store/apps/details?id=org.devcore.mixingstation>`_
-- Monitor mixing: `Qu-You <https://play.google.com/store/apps/details?id=com.allenheath.qumon>`_
+- Monitor mixing: `Qu-You Android <https://play.google.com/store/apps/details?id=com.allenheath.qumon>`_
