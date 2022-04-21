@@ -36,21 +36,26 @@ Gebruik de :download:`cheatsheet van Sweetwater </downloads/musicfrequencycheats
 .. Tip::
    Ook kan het handig zijn om je oren te trainen en de klanken van verschil in toon hoogte te leren herkennen. Dit wordt in onderstaande video kort uitgelegd.
 
-   .. youtube:: 5rYrcm__3sk
+   .. youtube:: 0fckQLQWhe0
       :width: 100%
+
+   Deze techniek wordt verder uitgelegd in een aantal andere video's van Kyle in `deze afspeellijst <https://www.youtube.com/playlist?list=PLASEfdY-tiDqPbxiB_4sc5wiJTTSJ_rhi>`_.
 
    Samenvatting:
 
-   ======== ======== ============= =============
-   Freq.    Klank    Eng. woord    Omschrijving
-   ======== ======== ============= =============
-   250Hz    Oo       food/too      muddy
-   500Hz    O        no            woofy
-   1kHz     Ah       mama          boxy
-   2kHz     A        hat           harsh
-   4kHz     EE       bee           airy
-   8kHz     S        say           crispy
-   ======== ======== ============= =============
+   ======== ============= =========== =============
+   Freq.    Klank NL.     Klank Eng.  Omschrijving
+   ======== ============= =========== =============
+   63Hz                               Gevoel in de (onder)buik
+   125Hz                              Gevoel in de borst
+   250Hz    OE - boer     Oo - food   muddy
+   500Hz    Ò - oor       O - no      woofy
+   1kHz     À - mast      Ah - mama   boxy
+   2kHz     È - het       A - hat     harsh
+   4kHz     IE - hier     EE - bee    airy
+   8kHz     S             S - say     crispy
+   16kHz    TS - fieTS    TS          Het raken van een bekken van een drumstel
+   ======== ============= =========== =============
 
 RTA/Spectrum Analizer
 ---------------------------------------
