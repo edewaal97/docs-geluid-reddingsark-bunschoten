@@ -3,6 +3,10 @@ Handleiding Geluid De Reddingsark Bunschoten
 Deze handleiding is geschreven voor het geluidsteam in `De Reddingsark <https://dereddingsark.nl>`_ locatie Bunschoten-Spakenburg.
 
 .. toctree::
+
+   waarom-en-hoe
+
+.. toctree::
    :caption: Klaarzetten en aansluiten:
 
    klaarzetten-en-aansluiten/basis
@@ -32,7 +36,6 @@ Deze handleiding is geschreven voor het geluidsteam in `De Reddingsark <https://
 .. toctree::
    :caption: Overig:
 
-   overig/voorbereidingen-en-zondagochtend
    overig/checklists
    overig/problemen-oplossen
    overig/inventaris
