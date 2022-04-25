@@ -23,6 +23,20 @@ Door gebruik te maken van effecten kan je een soort nieuw geluid creëren wat je
 
 Al deze zaken worden in hun eigen hoofdstuk uitgediept.
 
+Volume
+----------------
+Hoe hard moet het geluid staan? Staat het niet te hard? Dit is iets wat niet gemakkelijk is uit te leggen in de theorie, maar toch vaak een klacht is die we krijgen. Tijdens een gebruikelijke zondagochtenddienst proberen we het volume op het niveau te brengen waar je de zaal nog duidelijk kunt horen meezingen. Het hoeft geen concert te worden waarbij de band volledig overheerst en de zang vanuit de zaal niet meer te horen is.
+
+Kijk al bij het neerzetten of het volume op de speakers staat zoals standaard (één tikje onder een kwart). Dit is het volume waarbij je tijdens de dienst de main fader en de andere faders op de mengtafel rond de nul hebt staan. Als er een grote band speelt is het raadzaam om alle speakers één tikje harder te zetten (op een kwart dus).
+
+Met dit volume op de speakers zou het volume goed uit moeten komen als:
+
+1. Iemand door een microfoon praat,
+2. de gain van de microfoon afgesteld wordt waarbij het luidste signaal bij normaal praten net niet in het geel komt,
+3. de fader van dat kanaal op nul staat, en
+4. de masterfader op nul staat.
+
+Voorafgaand aan de dienst en na afloop willen mensen graag wat praten. Zorg dat na de initiële soundcheck het volume weer wat naar beneden gaat. Zet hiervoor de masterfader 10 à 15 decibel zachter. Als de dienst begint kan je de masterfader waarschijnlijk weer terugschuiven naar de nul en komt daarmee het volume weer op het gewenste niveau.
 
 Cheatsheets
 ----------------

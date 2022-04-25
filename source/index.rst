@@ -2,6 +2,9 @@ Handleiding Geluid De Reddingsark Bunschoten
 ==============================================
 Deze handleiding is geschreven voor het geluidsteam in `De Reddingsark <https://dereddingsark.nl>`_ locatie Bunschoten-Spakenburg.
 
+
+Inhoudsopgave
+---------------
 .. toctree::
 
    waarom-en-hoe
@@ -38,6 +41,7 @@ Deze handleiding is geschreven voor het geluidsteam in `De Reddingsark <https://
 
    overig/checklists
    overig/problemen-oplossen
+   overig/veelgemaakte-fouten
    overig/inventaris
    overig/handleidingen
    overig/apps
