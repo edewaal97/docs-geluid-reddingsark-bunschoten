@@ -66,7 +66,7 @@ Gelukkig hebben veel artiesten zelf microfoons voor hun eigen onversterkte instr
 Cheatsheet microfoonkeuze
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 - **Akoestische Gitaar**: Behringer C2 gericht op het gat in de klankkast.
-- **Klarinet**: Sennheiser E845 gericht op het gat aan de onderkant.
+- **Klarinet**: Sennheiser E845 haaks op 1/3e van het instrument gericht, ongeveer 30cm afstand tot het instrument.
 - **Trompet**: Sennheiser E845 gericht op het gat aan de onderkant.
 - **Viool**: Behringer C2 gericht op de gaten in de klankkast.
 - **Cajon**: Bassmic uit de drumkit gericht op het gat achterin de cajon. Een tweede microfoon wordt vanaf de zijkant op het voorste deel van de cajon gericht (ter hoogte van de interne snaren). Met behulp van de EQ wordt het geluid mooi gemixt.
