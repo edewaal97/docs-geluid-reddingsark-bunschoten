@@ -46,6 +46,15 @@ Richt de tops naar midden achterin de zaal (meestal de plek van de mengtafel). H
 
 In principe staat nu de basis. Bovenstaande is in alle situaties nodig, bij een dienst zonder zang, maar ook als er een volledige band speelt. Er moeten nu nog wel zaken aangesloten worden zodat er iets is om te versterken, zoals microfoons, instrumenten, andere geluidmakers en ook monitoren voor de artiesten.
 
+Schema aanluiten inputs en outputs
+-------------------------------------
+Het aansluiten is schematisch weergegeven in onderstaande tekening:
+
+..
+   _This image is made using Google drawings, the original is located on the drive of egbert.dewaal@dereddingsark.nl
+
+.. image:: https://docs.google.com/drawings/d/e/2PACX-1vSMmPuFR9kQR3ctHsHOpxiv6Aq0U1jqKj_kGtOWGU1q17d7UT-i88oU_4s12I1W1GpmqcaGzQVV9F4d/pub?w=960&h=720
+
 Inschakelen, uitschakelen en opruimen
 --------------------------------------
 Bij het inschakelen is het van belang dat eerst de mengtafel en de stagebox worden ingeschakeld. Als deze zijn opgestart (lampje ready brand op de stagebox) en de speakers zijn aangesloten zoals hierboven omschreven, mogen de speakers ook daadwerkelijk worden ingeschakeld.

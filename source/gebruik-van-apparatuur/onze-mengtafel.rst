@@ -26,3 +26,16 @@ Hieronder een korte video die een basis overview geeft over onze mengtafel:
 
 .. youtube:: Q9P-Om8UBe4
    :width: 100%
+
+
+Signaalflow door de mengtafel
+---------------------------------
+Het signaal begeeft zich via een vaste route door de mengtafel. Hieronder staat de signaalflow in simpele vorm afgebeeld:
+
+
+..
+   _This image is made using Google drawings, the original is located on the drive of egbert.dewaal@dereddingsark.nl
+
+.. image:: https://docs.google.com/drawings/d/e/2PACX-1vQEHQEX3aa7lG2ARuDF1jsFdVOJnueSgjyuq9hITg0DIG9M6A5BWeDFaRG4f5N3mUdKAn8pBIXAdDJz/pub?w=1440&h=1080
+
+De uitgebreide versie van de signaalflow staat in de handleiding van de mengtafel op pagina 89, die kan je hier vinden: :doc:`../overig/handleidingen`
