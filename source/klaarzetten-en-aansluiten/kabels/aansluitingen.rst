@@ -41,7 +41,8 @@ Tulpaansluitingen gebruiken wij niet zo veel meer. Tulpaansluitingen bestaan mee
 
 RJ45
 -------------------------------
-Andere benamingen: Netwerkkabel, Internetkabel
+Andere benamingen: Netwerkkabel, Internetkabel.
+
 In de Professionele audiowereld gaat dit vaak in combinatie met een Ethercon-connector. Hierdoor wordt de connector meer hufterproof. Deze kabel verbind de mengtafel met de stagebox.
 
 In tegenstelling tot bovenstaande kabels, wordt in deze kabel een digitaal signaal verzonden. Hierdoor kan er veel meer data over één kabel, en is er minder kans op ruis.

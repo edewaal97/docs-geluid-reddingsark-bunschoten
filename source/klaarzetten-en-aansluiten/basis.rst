@@ -12,6 +12,8 @@ De mengtafel moet ook van stroom worden voorzien. Gebruik hiervoor de lange hasp
 
 Stagebox
 --------------------------------
+.. image:: /images/stagebox-front.jpg
+
 De stagebox is eigenlijk een groot verlengsnoer naar de mengtafel. Alles wat op het podium staat en aangesloten moet worden op de mengtafel, wordt aangesloten op de stagebox.
 
 De stagebox staat meestal rechtsachter op het podium. De precieze locatie is niet zo belangrijk. Kies een logische plaats afhankelijk van waar de meeste dingen aangesloten moeten worden. Zorg wel dat de stagebox zo min mogelijk opvalt. De mengtafel en de stagebox worden verbonden met de netwerkkabel. Deze kabel zit op een haspel.
