@@ -1,6 +1,32 @@
 Equalizer en High-Passfilter
 ===================================
-Met de equalizer en het high-passfilter worden geluiden aangepast op basis van hun frequentie. In onderstaande video wordt een fundamentele uitleg gegeven over wat EQ is en hoe je hier instellingen aan maakt.
+Met de equalizer (EQ) en het high-passfilter (HPF) worden geluiden aangepast op basis van hun frequentie. 
+
+.. Hint::
+   Train je oren zodat je de klank (het geluid) van een bepaalde frequentie kunt identificeren.
+
+   ======== ============= =========== =============
+   Freq.    Klank NL.     Klank Eng.  Omschrijving
+   ======== ============= =========== =============
+   63Hz                               Gevoel in de (onder)buik
+   125Hz                              Gevoel in de borst
+   250Hz    OE - boer     Oo - food   muddy
+   500Hz    Ò - oor       O - no      woofy
+   1kHz     À - mast      Ah - mama   boxy
+   2kHz     È - het       A - hat     harsh
+   4kHz     IE - hier     EE - bee    airy
+   8kHz     S             S - say     crispy
+   16kHz    TS - fieTS    TS          Het raken van een bekken van een drumstel
+   ======== ============= =========== =============
+
+   In onderstaande video wordt deze techniek verder uitgelegd:
+
+   .. youtube:: 0fckQLQWhe0
+      :width: 100%
+
+   Meer weten? bekijk dan ook de volgende video's van Kyle in `deze afspeellijst <https://www.youtube.com/playlist?list=PLASEfdY-tiDqPbxiB_4sc5wiJTTSJ_rhi>`_.
+
+In onderstaande video wordt een fundamentele uitleg gegeven over wat EQ is en hoe je hier instellingen aan maakt.
 
 .. youtube:: jDGFZMKeGHY
    :width: 100%
@@ -27,38 +53,11 @@ High Pass Filter
 
 Het HPF (HighPassFilter) staat ook in dit scherm. Een HighPassFilter laat alleen signalen door boven een bepaalde toonhoogte (Frequentie). Deze hoogte kan geselecteerd worden met de draaiknop in de SuperStrip. Ook het HPF wordt in- of uitgeschakeld middels de :guilabel:`In`-knop.
 
-Het HPF kan gebruikt worden om ongewenste lage tonen, zoals het “poppen” van stemmen of het rommelen van een gitaar te verminderen.
-
-Cheatsheet
----------------------------------------
-Gebruik de :download:`cheatsheet van Sweetwater </downloads/musicfrequencycheatsheet.pdf>` om de frequentierange van verschillende veelgebruikte instrumenten te bekijken. Dit kan heel erg helpen bij het vormgeven van het geluid.
+Gebruik het HPF om ongewenste lage tonen, zoals het “poppen” van stemmen of het rommelen van een gitaar te verminderen.
 
 .. Tip::
-   Ook kan het handig zijn om je oren te trainen en de klanken van verschil in toon hoogte te leren herkennen. Dit wordt in onderstaande video kort uitgelegd.
+   Gebruik de :download:`cheatsheet van Sweetwater </downloads/musicfrequencycheatsheet.pdf>` om de frequentierange van verschillende veelgebruikte instrumenten te bekijken. Dit kan heel erg helpen bij het vormgeven van het geluid.
 
-   .. youtube:: 0fckQLQWhe0
-      :width: 100%
+   Maak daarnaast gebruik van een Real Time Analyzer / Spectrum Analyzer. De mengtafel heeft dit ingebouwd. Hier kom je via :guilabel:`Home`, tabje :guilabel:`RTA`. Om de spectrum analyzer te openen klik je in dat scherm op de :guilabel:`Fn`-toets linksonder het scherm.
 
-   Deze techniek wordt verder uitgelegd in een aantal andere video's van Kyle in `deze afspeellijst <https://www.youtube.com/playlist?list=PLASEfdY-tiDqPbxiB_4sc5wiJTTSJ_rhi>`_.
-
-   Samenvatting:
-
-   ======== ============= =========== =============
-   Freq.    Klank NL.     Klank Eng.  Omschrijving
-   ======== ============= =========== =============
-   63Hz                               Gevoel in de (onder)buik
-   125Hz                              Gevoel in de borst
-   250Hz    OE - boer     Oo - food   muddy
-   500Hz    Ò - oor       O - no      woofy
-   1kHz     À - mast      Ah - mama   boxy
-   2kHz     È - het       A - hat     harsh
-   4kHz     IE - hier     EE - bee    airy
-   8kHz     S             S - say     crispy
-   16kHz    TS - fieTS    TS          Het raken van een bekken van een drumstel
-   ======== ============= =========== =============
-
-RTA/Spectrum Analizer
----------------------------------------
-Maak daarnaast gebruik van een Real Time Analizer / Spectrum Analizer. De mengtafel heeft dit ingebouwd. Hier kom je via :guilabel:`Home`, tabje :guilabel:`RTA`. Om de spectrum analizer te openen klik je in dat scherm op de :guilabel:`Fn`-toets linksonder het scherm.
-
-Maak voor een gedetailleerdere weergave gebruik van een RTA/Spectrum Analizer op een telefoon/tablet. Ook de :doc:`apps </overig/apps>` die je aan de mengtafel kan koppelen hebben dit ingebouwd.
+   Maak voor een gedetailleerdere weergave gebruik van een RTA/Spectrum Analyzer op een telefoon/tablet. Ook de :doc:`apps </overig/apps>` die je aan de mengtafel kan koppelen hebben dit ingebouwd.
