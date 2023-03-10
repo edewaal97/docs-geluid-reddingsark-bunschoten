@@ -41,6 +41,7 @@ def visit_video_node(self, node, platform_url):
             "padding-bottom": "%f%%" % (width[0] * aspect[1] / aspect[0]),
             "width": "%d%s" % width,
             "position": "relative",
+            "margin-bottom": "24px",
         }
         style = {
             "position": "absolute",
