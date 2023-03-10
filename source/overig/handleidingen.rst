@@ -13,13 +13,13 @@ Op deze pagina staan de originele producthandleidingen van onze apparatuur gelin
    - :download:`Sennheiser EW100 G2 </downloads/sennheiser_ew100g2.pdf>`
    - :download:`Sennheiser EW100 G4 </downloads/sennheiser_ew100g4.pdf>`
    - :download:`Shure UT4 </downloads/shure-ut4.pdf>`
-- Bedraadde Microfoons:
+- Bedrade Microfoons:
    - :download:`Sennheiser E845 </downloads/sennheiser_e845.pdf>`
    - :download:`Behringer C2 </downloads/behringer_c2.pdf>`
-- DI's
+- DI's:
    - :download:`Behringer Ultra DI100 </downloads/behringer_ultra_di100.pdf>`
    - :download:`Behringer Ultra DI20 </downloads/behringer_ultra_di20.pdf>`
-- Speakers
+- Speakers:
    - Tops: :download:`QSC K12 </downloads/qsc-k12.pdf>`
    - Subs: :download:`RCF Sub 705-ASII </downloads/rfc-sub-705-asii.pdf>`
    - Monitorboxen: :download:`dB Technologies Flexsys FM10 </downloads/db-flexsys-fm10.pdf>`
