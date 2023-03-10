@@ -17,8 +17,7 @@ De Instellingen voor een Gate zijn erg vergelijkbaar met de instellingen voor ee
 - **Hold** De minimale tijd dat de gate open moet blijven nadat het signaal boven de threshold uit is gekomen.
 - **Release** hoe snel de gate sluit nadat het signaal onder de threshold komt.
 
-.. Hint::
-   Bekijk de volgende video voor een uitleg over gates:
+Bekijk de volgende video voor een uitleg over gates:
 
-   .. youtube:: XYKszVPOTB8
-      :width: 100%
+.. youtube:: XYKszVPOTB8
+   :width: 100%

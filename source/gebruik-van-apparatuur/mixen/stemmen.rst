@@ -8,9 +8,8 @@ Equalization
 - Cut smalle frequenties om rondzingers te verwijderen
 - Voorkom boosten, dit verhoogd de kans op rondzingers
 
-.. Tip::
-   .. youtube:: ey715RqVozk
-      :width: 100%
+.. youtube:: ey715RqVozk
+   :width: 100%
 
 Compression:
 ----------------
@@ -19,9 +18,8 @@ Compression:
 - Attack: 12-15ms (fast attack: thinner, slow attack: thicker)
 - Release: 250 ms (with a lot of syllables (lettergrepen): faster release is better, also for preachers and speakers)
 
-.. Tip::
-   .. youtube:: vcdwTwAXjmg
-      :width: 100%
+.. youtube:: vcdwTwAXjmg
+   :width: 100%
 
 Effecten:
 -------------------
@@ -36,8 +34,8 @@ Can make vocals feel thicker and wider.
 .. Tip::
    Miss it when it’s gone, but not really hear it when it’s there..
 
-   .. youtube:: Ms0qDW0GSDc
-      :width: 100%
+.. youtube:: Ms0qDW0GSDc
+   :width: 100%
 
 **Delay**
 
@@ -46,6 +44,5 @@ Can make vocals feel thicker and wider.
 
 kwart noot of achtste noot kiezen met de tap button. (Worship meestal rond de 400ms / 72bpm)
 
-.. Tip::
-   .. youtube:: 2t_hVmyXZ-4
-      :width: 100%
+.. youtube:: 2t_hVmyXZ-4
+   :width: 100%

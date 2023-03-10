@@ -17,9 +17,8 @@ Acoustisch
 - Attack: Fast 1-3ms
 - Release: Medium 200ms
 
-.. Tip::
-   .. Youtube:: H6_L4X_ftNM
-      :width: 100%
+.. Youtube:: H6_L4X_ftNM
+   :width: 100%
 
 
 Bass
@@ -41,9 +40,8 @@ In context met andere instrumenten, vooral de kick drum (kick voor *punch*, bass
 - Release: 200-500ms
 - Makeup gain: 5-10db
 
-.. Tip::
-   .. Youtube:: ctBDFPnhrOs
-      :width: 100%
+.. Youtube:: ctBDFPnhrOs
+   :width: 100%
 
 Elektrische gitaar
 ---------------------
