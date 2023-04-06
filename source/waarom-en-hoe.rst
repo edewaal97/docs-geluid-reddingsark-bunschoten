@@ -8,7 +8,7 @@ Zorg er voor dat het voor iedereen leuk blijft om dit te doen. Eén van de groot
 
 Voorbereiding
 ----------------------
-Als bekend wordt dat er meer instrumenten dan gebruikelijk zijn is het van belang om vooraf een planning te maken. Hierbij kan het helpen om een lijstje te maken van de te verwachten inputs en outputs (:download:`download <downloads/inputs-outputs-ontwerp.xltx>`). In sommige gevallen is het raadzaam om de dag van tevoren al (een deel) klaar te zetten. Doe dit altijd in goed overleg met de band, sleutelbeheerder en de anderen op het rooster.
+Als bekend wordt dat er meer instrumenten dan gebruikelijk zijn is het van belang om vooraf een planning te maken. Hierbij kan het helpen om een lijstje te maken van de te verwachten inputs en outputs (`Google Sheet <https://docs.google.com/spreadsheets/d/1_6nk2tpnW0HhCWtJOTFkZXhamcLD3VnQVE6J7hLjyhU/template/preview>`_). In sommige gevallen is het raadzaam om de dag van tevoren al (een deel) klaar te zetten. Doe dit altijd in goed overleg met de band, sleutelbeheerder en de anderen op het rooster.
 
 Klaarzetten en gebruik
 -----------------------
