@@ -17,6 +17,7 @@ Compression:
 - Type: Auto Slow Opto
 - Knee: Soft
 - Ratio: 4:1
+- Makeup Gain: 4dB
 
 .. youtube:: vcdwTwAXjmg
    :width: 100%

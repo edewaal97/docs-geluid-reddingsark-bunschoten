@@ -16,6 +16,7 @@ Acoustisch
 - Knee: Soft
 - Attack: Fast 1-3ms
 - Release: Medium 200ms
+- Makeup gain: 4dB
 
 .. Youtube:: H6_L4X_ftNM
    :width: 100%
@@ -37,7 +38,7 @@ In context met andere instrumenten, vooral de kick drum (kick voor *punch*, bass
 - Type: Auto Punchbag
 - Knee: Soft
 - Ratio: 4:1
-- Makeup gain: 5-10db
+- Makeup gain: 5-10dB
 
 .. Youtube:: ctBDFPnhrOs
    :width: 100%
