@@ -34,10 +34,9 @@ In context met andere instrumenten, vooral de kick drum (kick voor *punch*, bass
 
 **Compression**
 
+- Type: Auto Punchbag
 - Knee: Soft
-- Ratio: 3:1 / 4:1
-- Attack: Slow (20ms)
-- Release: 200-500ms
+- Ratio: 4:1
 - Makeup gain: 5-10db
 
 .. Youtube:: ctBDFPnhrOs
