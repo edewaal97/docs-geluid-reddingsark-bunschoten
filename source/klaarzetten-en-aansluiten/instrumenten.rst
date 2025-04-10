@@ -28,20 +28,25 @@ DI-box (ongebalanceerd)
 -----------------------
 Een DI(-box) (staat voor Direct Injection) vormt een ongebalanceerd signaal om naar een gebalanceerd signaal (zie uitleg onder :doc:`kabels`).
 
-In bijna alle gevallen kan de noodzaak van een DI herkent worden als het instrument een jack-output heeft. Een DI wordt vaak gebruikt bij gitaren. De laptop heeft ook een DI nodig om de audio aan te sluiten op de stagebox.
+Als een instrument een jack-output heeft, kan je er vanuit gaan dat een DI-box nodig is. Een DI wordt vaak gebruikt bij gitaren. De laptop heeft ook een DI nodig om de audio aan te sluiten op de stagebox.
 
-Wij hebben twee soorten DI. Een mono-DI en een tweekanaals DI (voor stereo).
+Wij hebben twee soorten DI-box, de linker voor een mono kanaal, bijvoorbeeld een gitaar. De rechter DI-box voor stereokanalen, bijvoorbeeld de laptop. Let bij de rechter DI op dat deze in de mode :guilabel:`2ch` staat bij gebruik voor twee kanalen.
 
 .. image:: /images/behringer-di-s.jpg
 
-Sluit de DI (output) aan met XLR-kabel(s) op de stagebox. Fantoomvoeding (48V) vanuit de mengtafel is vereist om de DI te laten werken. Sluit het instrument met een jack-kabel aan op de DI-input.
+Sluit de DI via de output aan met XLR-kabel(s) op de stagebox. Fantoomvoeding (48V) vanuit de mengtafel is vereist om de DI te laten werken. Sluit het instrument met een jack-kabel aan op de DI-input.
 
-DI’s hebben vaak extra functies, zoals een "ground lift" of signaalverzwakker. Met de signaalverzwakker (attenuation) wordt het signaal op een correct niveau gebracht als het signaal te luid is. Dit wordt vaak aangeduid met labeltjes zoals :guilabel:`pad` of :guilabel:`-..db`-knop. Als het geluid te zacht binnenkomt, kan het zo zijn dat het signaal nog gedempt wordt van een vorige dienst waarbij de DI gebruikt is. Zet de signaalverzwakker dan zonodig uit maar controleer wel eerst of het kanaal op de mengtafel gemute is, anders is het ineens 20dB harder. Met de "ground lift"-functie kan ruis of storing weggenomen worden als er een zogenaamde aardlus ontstaan is.
+DI’s hebben vaak extra functies, zoals een **ground lift** of **signaalverzwakker**. Met de signaalverzwakker (attenuation) wordt het signaal op een correct niveau gebracht als het signaal te luid is. Dit wordt vaak aangeduid met labeltjes zoals :guilabel:`pad` of :guilabel:`-..db`-knop. Als het geluid te zacht binnenkomt, kan het zo zijn dat het signaal nog gedempt wordt van een vorige dienst waarbij de DI gebruikt is. Zet de signaalverzwakker dan zonodig uit maar controleer wel eerst of het kanaal op de mengtafel gemute is, anders is het ineens 20dB harder. Met de "ground lift"-functie kan ruis of storing weggenomen worden als er een zogenaamde aardlus ontstaan is.
 
-Ook heeft een DI vaak een link-out, waarmee het ruwe signaal naar een eigen monitor gestuurd kan worden, alsof het rechtstreeks uit het instrument komt. Bij onze stereo-DI's is het van belang dat deze instelling goed staat. De DI kan in stereomodus en in link-modus gebruikt worden. Hiervoor moet de schakelaar goed staan. Als de stereomodus gebruikt wordt moet het knopje bij :guilabel:`2ch` staan, bij de link-modus op :guilabel:`link`. Wij maken in de praktijk zelden gebruik van de linkmodus.
+Ook hebben de DI-boxes een **link-out**, waarmee het ruwe signaal naar een eigen monitor gestuurd kan worden. Dit gebruiken we bijvoorbeeld bij het aansluiten van het drumstel (zie :doc:`../gebruik-van-apparatuur/mixen/drumstel`).
+Onze stereo-DI's kunnen kunnen alleen in mono gebruik maken van de link mode. Gebruik in dat geval een tweede DI voor het andere signaal. Zorg bij de stereo DI dat de schakelaar bij mode op :guilabel:`link` staat.
 
 .. TIP::
-   Als er ruis uit een instrument komt dat aangesloten is op een DI, kunnen er een aantal oorzaken zijn. Zorg dat voor het uitvoeren van onderstaande acties het signaal op de mengtafel op :guilabel:`mute` staat, anders kan er ineens een luid signaal door de boxen komen. Controleer allereerst of alle kabels goed ingeplugd zijn. Als jack-aansluitingen niet volledig aangesloten zijn ontstaat ruis. Ten tweede kan er een aardlus ontstaan zijn. Deze kan weggenomen worden door het knopje voor de ground-lift om te zetten. Ten derde kan het zo zijn dat het signaal teveel verzwakt wordt door de signaalverzwakker. Experimenteer door deze uit te zetten en het signaal op de mengtafel zachter te zetten in plaats van bij de DI.
+   Als er ruis uit een instrument komt dat aangesloten is op een DI, kunnen er een aantal oorzaken zijn. Zorg dat voor het uitvoeren van onderstaande acties het signaal op de mengtafel op :guilabel:`mute` staat, anders kan er ineens een luid signaal door de boxen komen.
+
+   * Controleer allereerst of alle kabels goed ingeplugd zijn. Als jack-aansluitingen niet volledig aangesloten zijn ontstaat ruis.
+   * Ten tweede kan er een aardlus ontstaan zijn. Deze kan weggenomen worden door het knopje voor de ground-lift om te zetten.
+   * Ten derde kan het zo zijn dat het signaal teveel verzwakt wordt door de signaalverzwakker. Experimenteer door deze uit te zetten en het signaal op de mengtafel zachter te zetten in plaats van bij de DI.
 
 Gebalanceerde instrumenten
 --------------------------
